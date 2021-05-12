@@ -1,6 +1,6 @@
 name = "GnuTLS_jll"
 uuid = "0951126a-58fd-58f1-b5b3-b08c7c4a876d"
-version = "3.6.13+1"
+version = "3.7.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,4 +13,5 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "1.0"
+julia = "1.6"
+Nettle_jll = "~3.7.2"
