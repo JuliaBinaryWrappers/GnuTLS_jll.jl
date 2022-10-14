@@ -1,6 +1,6 @@
 name = "GnuTLS_jll"
 uuid = "0951126a-58fd-58f1-b5b3-b08c7c4a876d"
-version = "3.7.1+0"
+version = "3.7.8+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
