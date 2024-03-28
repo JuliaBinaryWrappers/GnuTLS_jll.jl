@@ -1,127 +1,127 @@
 [[GnuTLS]]
 arch = "aarch64"
-git-tree-sha1 = "c67eef60aaed1a766b5ce608541a3acd31a03cd0"
+git-tree-sha1 = "7850fded89b3fee8a13a87ee2c8828e4c0063222"
 os = "macos"
 
     [[GnuTLS.download]]
-    sha256 = "4732760282d2adb620bb10a324c68ed620980f30d0a7f71b2a569cdd57de18ac"
-    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.3+0/GnuTLS.v3.8.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "ae6a8aba62cb57b035bd7a291040a11983ce2fa2bab66a747965c7be29a4eac7"
+    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.4+0/GnuTLS.v3.8.4.aarch64-apple-darwin.tar.gz"
 [[GnuTLS]]
 arch = "aarch64"
-git-tree-sha1 = "b3c95bf95d6215d7fc03c102eb778eb748b46ed7"
+git-tree-sha1 = "3fd09d3a6782f93f8e944bbcbeb7f5ff56203c43"
 libc = "glibc"
 os = "linux"
 
     [[GnuTLS.download]]
-    sha256 = "b18ca9472b9998c6dd0510a0b4f8debad3f9472f67a37375a612f75c24bd9b4d"
-    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.3+0/GnuTLS.v3.8.3.aarch64-linux-gnu.tar.gz"
+    sha256 = "1fad190639c8691f7855ce859bde5f54b78a5a604d592d8eddfe6f9734c370e6"
+    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.4+0/GnuTLS.v3.8.4.aarch64-linux-gnu.tar.gz"
 [[GnuTLS]]
 arch = "aarch64"
-git-tree-sha1 = "94d22af3827bfee797c3b07f5c4f6bf1594281d6"
+git-tree-sha1 = "6c7d839fc1c4e79364a9c89cafdf7604c5c44ddb"
 libc = "musl"
 os = "linux"
 
     [[GnuTLS.download]]
-    sha256 = "9129aba30f6cf5561f802e973001fc42e300564215b3355479b2ec064c49e8b4"
-    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.3+0/GnuTLS.v3.8.3.aarch64-linux-musl.tar.gz"
+    sha256 = "2c8620c3d9ac85667b8328b8fef0861c467d419b1556b755768dc32b8585ea8a"
+    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.4+0/GnuTLS.v3.8.4.aarch64-linux-musl.tar.gz"
 [[GnuTLS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "59560d284957aa1a97af41985b0686ad1446e6dc"
+git-tree-sha1 = "0ab752e6c325521b44bddddd9859336d79be14ca"
 libc = "glibc"
 os = "linux"
 
     [[GnuTLS.download]]
-    sha256 = "77cba750607a3e40cf3cf0d112ba87e5735405957ab99f04e9911b0cc4858b55"
-    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.3+0/GnuTLS.v3.8.3.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "d090c933f7a9661cf82d29b8ce622854e54fdae9add3c863c52b573288cfc8fb"
+    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.4+0/GnuTLS.v3.8.4.armv6l-linux-gnueabihf.tar.gz"
 [[GnuTLS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "5d0886f6acd2d6ef0684b5a758f68f73e8730a2f"
+git-tree-sha1 = "a007886b410d1a05b23d9b33ba67a28d3c4103fe"
 libc = "musl"
 os = "linux"
 
     [[GnuTLS.download]]
-    sha256 = "deeebd2959632474466f40477a5d150e297be0605b24e5d77df9c53fc32e1d81"
-    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.3+0/GnuTLS.v3.8.3.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "395dd941b3fbb1cbd65722a4be987f99dc501e3b4920e55ed0f6e62e97f163f2"
+    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.4+0/GnuTLS.v3.8.4.armv6l-linux-musleabihf.tar.gz"
 [[GnuTLS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "59560d284957aa1a97af41985b0686ad1446e6dc"
+git-tree-sha1 = "0ab752e6c325521b44bddddd9859336d79be14ca"
 libc = "glibc"
 os = "linux"
 
     [[GnuTLS.download]]
-    sha256 = "77cba750607a3e40cf3cf0d112ba87e5735405957ab99f04e9911b0cc4858b55"
-    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.3+0/GnuTLS.v3.8.3.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "d090c933f7a9661cf82d29b8ce622854e54fdae9add3c863c52b573288cfc8fb"
+    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.4+0/GnuTLS.v3.8.4.armv7l-linux-gnueabihf.tar.gz"
 [[GnuTLS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "5d0886f6acd2d6ef0684b5a758f68f73e8730a2f"
+git-tree-sha1 = "a007886b410d1a05b23d9b33ba67a28d3c4103fe"
 libc = "musl"
 os = "linux"
 
     [[GnuTLS.download]]
-    sha256 = "deeebd2959632474466f40477a5d150e297be0605b24e5d77df9c53fc32e1d81"
-    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.3+0/GnuTLS.v3.8.3.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "395dd941b3fbb1cbd65722a4be987f99dc501e3b4920e55ed0f6e62e97f163f2"
+    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.4+0/GnuTLS.v3.8.4.armv7l-linux-musleabihf.tar.gz"
 [[GnuTLS]]
 arch = "i686"
-git-tree-sha1 = "3522a022abfc9f393307b7a3da7cbd8e3cf20588"
+git-tree-sha1 = "b8fbd54c39d4a5872e73657f6d620c92703e7880"
 libc = "glibc"
 os = "linux"
 
     [[GnuTLS.download]]
-    sha256 = "28a6d5551d5a8db72135fd6f4f041f1f0fe522374eb03a21c49aa6f3abd47848"
-    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.3+0/GnuTLS.v3.8.3.i686-linux-gnu.tar.gz"
+    sha256 = "15179289babaee2e6854e15ef8e5a854b635079dd9a3c540f50772fe7275c2fb"
+    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.4+0/GnuTLS.v3.8.4.i686-linux-gnu.tar.gz"
 [[GnuTLS]]
 arch = "i686"
-git-tree-sha1 = "cc0116842fb61335a2fdd0cf787a2b232507febb"
+git-tree-sha1 = "0c2a79a85576be1eb3ec7bc78608a5142c091592"
 libc = "musl"
 os = "linux"
 
     [[GnuTLS.download]]
-    sha256 = "a49f4e8d2af13efc6834fe26414919afe575983cb37e2ac40463861ccea860e4"
-    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.3+0/GnuTLS.v3.8.3.i686-linux-musl.tar.gz"
+    sha256 = "cf1aca41ce5efd0a80a73176e32be89720454b5f0b6a85ec53381072d0d58b46"
+    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.4+0/GnuTLS.v3.8.4.i686-linux-musl.tar.gz"
 [[GnuTLS]]
 arch = "powerpc64le"
-git-tree-sha1 = "d9235ba568e7b1176358904f154f1d5f2f50c904"
+git-tree-sha1 = "e2f8b3c215d42a1826d9db92c2b0bd7586968b54"
 libc = "glibc"
 os = "linux"
 
     [[GnuTLS.download]]
-    sha256 = "a9c9f8a86d8a08d0ec3370a87fcd3fe74a11c45654004c99c8373e6afc174a02"
-    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.3+0/GnuTLS.v3.8.3.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "31db85b20ac23d5f0a474487d9653b9e57a5acdc32e3381facaee7707484785c"
+    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.4+0/GnuTLS.v3.8.4.powerpc64le-linux-gnu.tar.gz"
 [[GnuTLS]]
 arch = "x86_64"
-git-tree-sha1 = "c33444824b6fdfac33e5fddf73b139211a8bfe72"
+git-tree-sha1 = "db18e947117c74679c744e65f2e3d2e96711815d"
 os = "macos"
 
     [[GnuTLS.download]]
-    sha256 = "faddf19f9856f74d3ecf6c8fb2f391ebd6cd91d6b5fe97c7f830b5d0dc960124"
-    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.3+0/GnuTLS.v3.8.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "57ad257fe127688dd3210559d8dd1554bfc56d28b215ec642834184a249453c5"
+    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.4+0/GnuTLS.v3.8.4.x86_64-apple-darwin.tar.gz"
 [[GnuTLS]]
 arch = "x86_64"
-git-tree-sha1 = "922cfdff923e16c9a8208f5b5ab852d00e8bf193"
+git-tree-sha1 = "61ede290974284fcbb9ff32a72f6dec42be6bd0c"
 libc = "glibc"
 os = "linux"
 
     [[GnuTLS.download]]
-    sha256 = "cd57e3b0d0b1cf51ef6d9bcef65e06e97193626ae11a017f3741acb2fbd2c1af"
-    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.3+0/GnuTLS.v3.8.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "7efdf842edba2db24696fc92e3f07800f122db918a45dfc1c4ea7ef38f14b39a"
+    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.4+0/GnuTLS.v3.8.4.x86_64-linux-gnu.tar.gz"
 [[GnuTLS]]
 arch = "x86_64"
-git-tree-sha1 = "a0971a07a10eaed3ad3a466d422ca28cade4a22a"
+git-tree-sha1 = "58a89a7ce7b67e656b7c985e8dc6b0c53d2f021e"
 libc = "musl"
 os = "linux"
 
     [[GnuTLS.download]]
-    sha256 = "b71df49ea7148af47d0c512d7f0eec6560f3dccf0415fcb0c8f09db25d7f60d7"
-    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.3+0/GnuTLS.v3.8.3.x86_64-linux-musl.tar.gz"
+    sha256 = "e05ec8d53b1b4afc1c51f6744de93adc8577787baf4e081a7be7bf1b9e3561c5"
+    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.4+0/GnuTLS.v3.8.4.x86_64-linux-musl.tar.gz"
 [[GnuTLS]]
 arch = "x86_64"
-git-tree-sha1 = "b6c5097fac77b60fc94cba88788316f31d1d63d6"
+git-tree-sha1 = "b280cfdda2eee00fe51db4487a6e96ef70fd0c84"
 os = "freebsd"
 
     [[GnuTLS.download]]
-    sha256 = "7194ec7578bb18e6cde17d665be17a4e703097e6dd07395ba77c5c2e04eb9ff6"
-    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.3+0/GnuTLS.v3.8.3.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "bf1bc4670b78d79779905cd4e23bc2613163a79ed3fd2bfe50b785fbbafdb4ec"
+    url = "https://github.com/JuliaBinaryWrappers/GnuTLS_jll.jl/releases/download/GnuTLS-v3.8.4+0/GnuTLS.v3.8.4.x86_64-unknown-freebsd.tar.gz"
